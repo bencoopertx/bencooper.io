@@ -39,7 +39,7 @@ function Home() {
 						<CardMedia className={classes.media} image={img} title="hello" />
 
 						<CardContent>
-							<Box mb={1}>
+							<Box mb={2}>
 								<Chip label="React Native" size={"small"} className={classes.chip} />
 								<Chip label="Sqlite" size={"small"} className={classes.chip} />
 							</Box>
