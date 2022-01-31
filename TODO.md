@@ -1,3 +1,0 @@
-- Social Media Links
-- Refactor card into component, and map projects array unto it
-- Add contact me @ bottom
