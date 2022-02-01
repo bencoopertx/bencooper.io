@@ -271,7 +271,6 @@ export const NotionPage: React.FC<types.PageProps> = ({
         mapImageUrl={mapNotionImageUrl}
         searchNotion={searchNotion}
         pageFooter={comments}
-        pageAside={pageAside}
         footer={
           <Footer
             isDarkMode={darkMode.value}
