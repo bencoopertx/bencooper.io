@@ -8,9 +8,9 @@ export default class MyDocument extends Document {
       <IconContext.Provider value={{ style: { verticalAlign: 'middle' } }}>
         <Html lang='en'>
           <Head>
-            <link rel='shortcut icon' href='/favicon2.png' />
+            <link rel='shortcut icon' href='/favicon3.png' />
 
-            <link rel='icon' href='/favicon2.png' />
+            <link rel='icon' href='/favicon3.png' />
 
             <link rel='manifest' href='/manifest.json' />
           </Head>
