@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'Ben Cooper',
   domain: 'bencooper.io',
-  author: 'Ben Cooper',
+  author: 'Ben Cooper Apps, LLC',
 
   // open graph metadata (optional)
   description: 'Example site description',
